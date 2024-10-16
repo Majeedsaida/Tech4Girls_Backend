@@ -1,0 +1,1 @@
+echo "The three groups are: owner , group, and others." > linux_ownership.txt
