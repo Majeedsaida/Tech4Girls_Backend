@@ -1,0 +1,1 @@
+echo "File ownership in Linux refers to the user and group that own a file. Permissions are read (r), write (w), and execute (x), applied to owner, group, and others." > ownership_permissions.txt
