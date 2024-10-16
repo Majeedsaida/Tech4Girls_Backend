@@ -1,0 +1,1 @@
+echo "The read file permission is represented as 'r'." > permissions.txt
