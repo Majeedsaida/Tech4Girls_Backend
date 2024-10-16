@@ -1,0 +1,1 @@
+echo "A branch in Git is an independent line of development. Creating a branch allows changes to be made without affecting the main codebase until it's merged." > branches.txt
