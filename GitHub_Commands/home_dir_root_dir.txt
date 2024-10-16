@@ -1,0 +1,1 @@
+echo "The home directory is where a user’s personal files and configurations are stored, typically located at /home/username. The root directory (/) is the top-most level in the file system where all other directories branch from, accessible only by the root user." > home_dir_root_dir.txt
