@@ -1,0 +1,1 @@
+echo "Use pwd to get the absolute path. Then, navigate to the GitHub_Commands directory and execute: \$(pwd)/README.md" > readme_path.txt
