@@ -1,0 +1,1 @@
+echo "git pull is used to fetch and integrate changes from a remote repository into the current branch. It is useful when you want to update your local branch with changes made by others." > branch_work.txt
