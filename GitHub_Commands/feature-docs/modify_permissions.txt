@@ -1,0 +1,2 @@
+chmod 644 file.txt
+echo "chmod 644 file.txt" > modify_permissions.txt
