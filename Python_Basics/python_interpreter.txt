@@ -1,0 +1,2 @@
+
+echo -e "Steps to Open the Python Interpreter: Open a terminal. Type 'python3' (or 'python' depending on the system) and press 'Enter' The Python interpreter will open, showing a prompt like '>>>' Example of Using the Interpreter to Add Two Numbers: >>> 5 + 3 "8" > Python_Basics/python_interpreter.txt
