@@ -1,0 +1,17 @@
+# data_types_and_strings.txt
+
+#Data Types:
+int: Integer values. Example: age = 24
+float: Floating-point (decimal) values. Example: price = 19.99
+str: Text or string values. Example: `name = "Alice"`
+list: Ordered, mutable collection. Example: numbers = [1, 2, 3, 4]
+tuple: Ordered, immutable collection. Example: dimensions = (1920, 1080)
+set: Unordered, unique collection. Example: `unique_numbers = {1, 2, 3, 4} or {4, 3, 2, 1}
+
+#String Methods:
+upper(): Converts the value of a string to uppercase. Example: "hello".upper()` results in "HELLO"
+lower(): Converts the value of a strin lowercase. Example: "HELLO".lower()` results in "hello"
+replace(): Replaces part of a string. Example: "hello".replace("h", "y") results in "yello"
+split(): Splits a string by whitespace (default). Example: "hello world".split() results in ["hello", "world"]
+join(): Joins a list of strings. Example: "-".join(["a", "b", "c"]) results in "a-b-c"
+find(): Finds the position of a substring. Example: "hello".find("e") results in 1
